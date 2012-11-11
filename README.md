@@ -1,11 +1,11 @@
 dmSyntaxHighlighterBehaviorPlugin for Diem Extended
 ===============================
 
-Author: [TheCelavi](http://www.runopencode.com/about/thecelavi)
-Version: 1.0.0
-Stability: Stable
-Date: November 10th, 2012
-Courtesy of [Run Open Code](http://www.runopencode.com)  
+Author: [TheCelavi](http://www.runopencode.com/about/thecelavi)  
+Version: 1.0.0  
+Stability: Stable  
+Date: November 10th, 2012  
+Courtesy of [Run Open Code](http://www.runopencode.com)   
 
 dmSyntaxHighlighterBehaviorPlugin for Diem Extended is adaptation of
 [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/) packed to be
