@@ -5,7 +5,7 @@
     "time" : "2012-11-10",
     "type": "symfony1-plugin",
     "require": {
-        "composer/installers": "*"
+        "composer/installers": "dev-master"
     },
     "keywords": ["diem", "diem extended", "behavior", "front behavior", "plugin", "dmSyntaxHighlighterBehaviorPlugin"],
     "homepage": "http://www.runopencode.com/projects/diem/front-behaviors/dmsyntaxhighlighterbehaviorplugin",

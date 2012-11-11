@@ -6,6 +6,7 @@ Version: 1.0.0
 Stability: Stable  
 Date: November 10th, 2012  
 Courtesy of [Run Open Code](http://www.runopencode.com)   
+License: [Free for all](http://www.runopencode.com/terms-and-conditions/free-for-all)
 
 dmSyntaxHighlighterBehaviorPlugin for Diem Extended is adaptation of
 [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/) packed to be
