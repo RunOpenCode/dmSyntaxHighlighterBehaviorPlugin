@@ -21,7 +21,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Seldaek/monolog"
+            "url": "https://github.com/RunOpenCode/dmSyntaxHighlighterBehaviorPlugin"
         }
     ],
     "support": {
