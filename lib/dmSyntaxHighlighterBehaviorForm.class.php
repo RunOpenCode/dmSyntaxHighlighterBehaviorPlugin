@@ -3,7 +3,7 @@
 /**
  * @author TheCelavi
  * @license http://www.runopencode.com/terms-and-conditions/free-for-all Free for all
- * @category Diem Front behaviors
+ * @category Diem Extended Front behaviors
  * @version 1.0.0
  */
 class dmSyntaxHighlighterBehaviorForm extends dmBehaviorBaseForm

@@ -1,6 +1,6 @@
 js:
   dmSyntaxHighlighterBehaviorPlugin:
-    behavior: dmSyntaxHighlighterBehavior
+    behavior: dmSyntaxHighlighterBehavior.min
     autoloader: sh/shAutoloader
     core: sh/shCore
     AS3: sh/shBrushAS3
