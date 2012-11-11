@@ -1,13 +1,13 @@
 {
-    "name": "runopencode/dmSyntaxHighlighterBehaviorPlugin",
-    "description": "Syntax Highlighter Front Behavior for Diem Extended",
+    "name": "runopencode/dm-syntax-highlighter-behavior-plugin",
+    "description": "dmSyntaxHighlighterBehaviorPlugin - Syntax Highlighter Front Behavior for Diem Extended",
     "version" : "1.0.0",
     "time" : "2012-11-10",
     "type": "symfony1-plugin",
     "require": {
         "composer/installers": "*"
     },
-    "keywords": ["diem", "diem extended", "behavior", "front behavior", "plugin"],
+    "keywords": ["diem", "diem extended", "behavior", "front behavior", "plugin", "dmSyntaxHighlighterBehaviorPlugin"],
     "homepage": "http://www.runopencode.com/projects/diem/front-behaviors/dmsyntaxhighlighterbehaviorplugin",
     "license": "Free for all",
     "authors": [
