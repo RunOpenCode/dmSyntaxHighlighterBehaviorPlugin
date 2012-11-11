@@ -1,0 +1,14 @@
+### Default settings for the SyntaxHighlighter
+default:
+  dmSyntaxHighlighterBehaviorPlugin:
+    defaults:
+      theme: Default
+      gutter: true
+      auto_links: true
+      collapse: false
+      first_line: 1
+      highlight: ''
+      html_script: false
+      smart_tabs: true
+      tab_size: 4
+      toolbar: false

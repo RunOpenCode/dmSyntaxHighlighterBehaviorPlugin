@@ -1,0 +1,6 @@
+dmBehaviors:
+  dmSyntaxHighlighterBehavior:
+    section: Utility
+    name: Syntax Highlighter
+    form: dmSyntaxHighlighterBehaviorForm
+    view: dmSyntaxHighlighterBehaviorView

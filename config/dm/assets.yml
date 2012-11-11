@@ -1,0 +1,41 @@
+js:
+  dmSyntaxHighlighterBehaviorPlugin:
+    behavior: dmSyntaxHighlighterBehavior
+    autoloader: sh/shAutoloader
+    core: sh/shCore
+    AS3: sh/shBrushAS3
+    AppleScript: sh/shBrushAppleScript
+    Bash: sh/shBrushBash
+    CSharp: sh/shBrushCSharp
+    ColdFusion: sh/shBrushColdFusion
+    Cpp: sh/shBrushCpp
+    Css: sh/shBrushCss
+    Delphi: sh/shBrushDelphi
+    Diff: sh/shBrushDiff
+    Erlang: sh/shBrushErlang
+    Groovy: sh/shBrushGroovy
+    JScript: sh/shBrushJScript
+    Java: sh/shBrushJava
+    JavaFX: sh/shBrushJavaFX
+    Perl: sh/shBrushPerl
+    Php: sh/shBrushPhp
+    Plain: sh/shBrushPlain
+    PowerShell: sh/shBrushPowerShell
+    Python: sh/shBrushPython
+    Ruby: sh/shBrushRuby
+    Sass: sh/shBrushSass
+    Scala: sh/shBrushScala
+    Sql: sh/shBrushSql
+    Vb: sh/shBrushVb
+    Xml: sh/shBrushXml
+css:
+  dmSyntaxHighlighterBehaviorPlugin:
+    core: sh/shCore
+    Default: sh/shThemeDefault
+    Django: sh/shThemeDjango
+    Eclipse: sh/shThemeEclipse
+    Emacs: sh/shThemeEmacs
+    FateToGrey: sh/shThemeFadeToGrey
+    MDUltra: sh/shThemeMDUltra
+    Midnight: sh/shThemeMidnight
+    RDark: sh/shThemeRDark
